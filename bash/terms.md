@@ -1,0 +1,1 @@
+* Command Substitution: Paste standard out into another command.
